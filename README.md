@@ -1,12 +1,12 @@
 # LiteLoaderBDS - Epoch-making & Cross-language Bedrock Dedicated Servers Plugin Loader
 
-[![status](https://img.shields.io/github/actions/workflow/status/LiteLDev/LiteLoaderBDS/build.yml?style=for-the-badge)](https://github.com/LiteLDev/LiteLoaderBDS/actions)
+[![status](https://img.shields.io/github/actions/workflow/status/LiteLDev/LiteLoaderBDSv2/build.yml?style=for-the-badge)](https://github.com/LiteLDev/LiteLoaderBDSv2/actions)
 [![Discord](https://img.shields.io/discord/849252980430864384?color=blue&label=Discord&style=for-the-badge)](https://discord.gg/27KTrxHc9t)
 [![Telegram](https://img.shields.io/badge/telegram-LiteLoader-%232CA5E0?style=for-the-badge&logo=Telegram)](https://t.me/liteloader)
 [
-![Latest Tag](https://img.shields.io/github/v/tag/LiteLDev/LiteLoaderBDS?label=LATEST%20TAG&style=for-the-badge)
-![GitHub Releases (by Asset)](https://img.shields.io/github/downloads/LiteLDev/LiteLoaderBDS/latest/total?style=for-the-badge)
-](https://github.com/LiteLDev/LiteLoaderBDS/releases/latest)  
+![Latest Tag](https://img.shields.io/github/v/tag/LiteLDev/LiteLoaderBDSv2?label=LATEST%20TAG&style=for-the-badge)
+![GitHub Releases (by Asset)](https://img.shields.io/github/downloads/LiteLDev/LiteLoaderBDSv2/latest/total?style=for-the-badge)
+](https://github.com/LiteLDev/LiteLoaderBDSv2/releases/latest)  
 QQ Group: [656669024](https://jq.qq.com/?_wv=1027&k=lagwtrfh) QQ Group
 2: [850517473](https://jq.qq.com/?_wv=1027&k=zeUbrETH)
 
