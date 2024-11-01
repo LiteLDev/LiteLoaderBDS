@@ -1,4 +1,4 @@
-# LiteLoaderBDS - Epoch-making & Cross-language Bedrock Dedicated Servers Plugin Loader
+# LiteLoaderBDS
 
 [![status](https://img.shields.io/github/actions/workflow/status/LiteLDev/LiteLoaderBDSv2/build.yml?style=for-the-badge)](https://github.com/LiteLDev/LiteLoaderBDSv2/actions)
 [![Discord](https://img.shields.io/discord/849252980430864384?color=blue&label=Discord&style=for-the-badge)](https://discord.gg/27KTrxHc9t)
@@ -10,13 +10,10 @@
 QQ Group: [656669024](https://jq.qq.com/?_wv=1027&k=lagwtrfh) QQ Group
 2: [850517473](https://jq.qq.com/?_wv=1027&k=zeUbrETH)
 
-##### English | [简体中文](README_zh-cn.md)
+English | [简体中文](README_zh-cn.md)
 
 ## ⚠️ Warning
-### We are currently working on 3.0 to ensure minimal impact on users. Until version 3.0 is completed, we will continue to adapt and support 2.0 (without fixing any bugs, only ensuring normal functionality).
-
-
-![LiteLoaderBDS](https://socialify.git.ci/LiteLDev/LiteLoaderBDS/image?description=1&font=KoHo&forks=1&issues=1&logo=https%3A%2F%2Fgithub.com%2FLiteLDev%2Fdocs%2Fraw%2Fmain%2Fassets%2FLogo.png&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
+### LiteLoaderBDS has reached end of life! It is no longer maintained or supported. We recommend you transition to [LeviLamina](https://github.com/LiteLDev/LeviLamina).
 
 `LiteLoaderBDS` is an unofficial plugin loader that provides basic API support for `Bedrock Dedicated Server`, with a
 massive API, lots of packed utility interfaces, a rich event system and powerful basic interface support.
