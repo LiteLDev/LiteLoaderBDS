@@ -9,9 +9,10 @@
 ](https://github.com/LiteLDev/LiteLoaderBDS/releases/latest)  
 QQ群: [656669024](https://jq.qq.com/?_wv=1027&k=lagwtrfh) QQ2群: [850517473](https://jq.qq.com/?_wv=1027&k=zeUbrETH)
 
-##### [English](README.md) | 简体中文
+[English](README.md) | 简体中文
 
-![LiteLoaderBDS](https://socialify.git.ci/LiteLDev/LiteLoaderBDS/image?description=1&font=KoHo&forks=1&issues=1&logo=https%3A%2F%2Fgithub.com%2FLiteLDev%2Fdocs%2Fraw%2Fmain%2Fassets%2FLogo.png&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
+## ⚠️ 警告
+### LiteLoaderBDS的生命已经走到了尽头！她不再被维护和支持。我们建议你移步 [LeviLamina](https://github.com/LiteLDev/LeviLamina).
 
 `LiteLoaderBDS` 是一个非官方的 `Minecraft` 服务端插件加载器，为基岩版专用服务器——`Bedrock Dedicated Server`（以下简称**
 BDS**）提供插件开发支持 和 插件加载服务，弥补了官方行为包开发接口长期以来存在的一些不足。
