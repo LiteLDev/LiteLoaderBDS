@@ -106,7 +106,7 @@ mc.listen("onServerStarted", () => {
       cross-version **auto-adaptation** is no longer a dream
 
 - 📋 Well documented and explained in detail
-    - Welcome to 👉[LiteLoader documentation](https://docs.litebds.com/)👈 to see more
+    - Welcome to 👉[LiteLoader documentation](https://github.com/LiteLDev/liteloaderbds-documentation/)👈 to see more
 
 - 🎈 Numerous well-packaged interfaces
     - Numerous game APIs support: players, entities, cubes, items, containers, NBTs, server systems......
